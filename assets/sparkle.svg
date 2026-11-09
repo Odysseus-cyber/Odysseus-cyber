@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" role="img" aria-labelledby="title">
+  <title id="title">A gently twinkling star</title>
+  <style>
+    .star { animation: twinkle 5s ease-in-out infinite; }
+    .glint { animation: twinkle 5s ease-in-out -2.5s infinite; }
+    @keyframes twinkle {
+      0%, 100% { opacity: 0.55; }
+      50% { opacity: 1; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .star, .glint { animation: none; opacity: 1; }
+    }
+  </style>
+  <path class="star" fill="#D99A50" d="M9 2.5 11.1 7.9 16.5 10 11.1 12.1 9 17.5 6.9 12.1 1.5 10 6.9 7.9Z" />
+  <path class="glint" fill="#F2B7A5" d="M16.5 1.5 17.2 3.3 19 4 17.2 4.7 16.5 6.5 15.8 4.7 14 4 15.8 3.3Z" />
+</svg>

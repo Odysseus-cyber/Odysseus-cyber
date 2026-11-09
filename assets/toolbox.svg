@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="90" viewBox="0 0 450 90" role="img" aria-labelledby="title desc">
+  <title id="title">Haoran's toolbox</title>
+  <desc id="desc">Python, TypeScript, React, FastAPI, PostgreSQL, and Docker, arranged as six warm cream labels.</desc>
+  <g fill="#FFF7E6" stroke="#D99A50" stroke-opacity="0.45">
+    <rect x="4.5" y="5.5" width="137" height="33" rx="16.5" />
+    <rect x="156.5" y="5.5" width="137" height="33" rx="16.5" />
+    <rect x="308.5" y="5.5" width="137" height="33" rx="16.5" />
+    <rect x="4.5" y="51.5" width="137" height="33" rx="16.5" />
+    <rect x="156.5" y="51.5" width="137" height="33" rx="16.5" />
+    <rect x="308.5" y="51.5" width="137" height="33" rx="16.5" />
+  </g>
+  <g fill="#51372D" font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="15" font-weight="600" text-anchor="middle">
+    <text x="73" y="27">Python</text>
+    <text x="225" y="27">TypeScript</text>
+    <text x="377" y="27">React</text>
+    <text x="73" y="73">FastAPI</text>
+    <text x="225" y="73">PostgreSQL</text>
+    <text x="377" y="73">Docker</text>
+  </g>
+</svg>

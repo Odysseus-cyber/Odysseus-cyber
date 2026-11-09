@@ -1,0 +1,19 @@
+Cozy Coding Corner — image generation prompts
+
+Tool: built-in image_gen (imagegen skill)
+Reference: user-supplied 02_好奇.png
+
+BANNER
+
+Use case: stylized-concept
+Asset type: GitHub profile hero banner, very wide 3:1 landscape, target 1800x600.
+Input image: the user-provided avatar (02_好奇.png) is the character identity and drawing-style reference, not an image to simply paste.
+Create a polished cozy anime/chibi illustration for a personal developer profile. Match the exact recognizable character from the reference: short tousled chestnut-brown hair, large warm amber-brown eyes, black thin rectangular eyeglasses, soft round face, small mouth, warm peach skin with rosy cheeks. Keep the cute illustrated identity and soft detailed shading. Show this same character on the RIGHT HALF at a cozy wooden desk, upper body leaning curiously towards a laptop, hands naturally near keyboard, wearing a simple dark navy top. One character only. On the LEFT HALF, airy warm cream negative space with a small notebook, minimal code-bracket doodles and a few tiny amber stars. Warm desk lamp, pale buttery background, subtle paper grain, rounded shapes, gentle afternoon light. Main palette cream #FFF7E6, chestnut #51372D, amber #D99A50, blush pink #F2B7A5, with restrained navy accents. Professional illustration quality, charming and calm, not cluttered. Fully compose a panoramic 3:1 banner, face and glasses comfortably inside frame, no face cutoff. Absolutely no text, no lettering, no words, no watermark, no brand logos, no extra characters. Background opaque.
+
+PEEK STICKER
+
+Use case: stylized-concept
+Asset type: transparent PNG character sticker for the footer of a GitHub profile.
+Input image: the user-provided avatar (02_好奇.png) is the exact character identity and drawing-style reference.
+Draw the same recognizable cute anime/chibi character peeking curiously over an invisible horizontal edge, with the whole head and two little hands visible. Match reference short tousled chestnut brown hair, thin black rectangular glasses, very large amber-brown eyes, round warm peach face, rosy cheeks and tiny mouth. Soft polished detailed anime shading, warm cream and chestnut palette with a small dark navy collar, appealing curious expression. Center composition with breathing room so no part of hair or fingers is cropped. Exactly one character, no extra objects, no speech bubbles, no text, no logos. Standalone cutout with genuinely transparent background, no white rectangle, no checkered texture, no background scene, no fake transparency. Fine clean edges with a restrained pale cream sticker outline. The silhouette should be readable at 128px display width.
+
